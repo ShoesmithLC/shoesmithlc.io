@@ -1,1 +1,2 @@
 # shoesmithlc.io
+shoesmithlc.com
